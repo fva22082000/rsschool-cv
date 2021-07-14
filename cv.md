@@ -21,7 +21,6 @@ I want to become a front-end developer, and then a full-stack developer in an IT
 * tools:
 	* git
 	* github
-	* gulp
 
 ## Example code
 
@@ -39,6 +38,14 @@ var countBits = function(n) {
   return k;
 };
 ```
+
+## Work Experience
+
+None
+
+## Education
+
+Secondary
 
 ## English level
 
