@@ -110,3 +110,17 @@ header .container {
 
     font-size: 20px;
 }
+
+.english .container {
+    padding: 25px 0;
+}
+
+.english_title {
+    font-size: 40px;
+}
+
+.english_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
