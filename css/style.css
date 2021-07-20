@@ -9,6 +9,10 @@ ul {
     list-style: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     max-width: 1140px;
     margin: 0 auto;
@@ -123,4 +127,32 @@ header .container {
     margin-top: 20px;
 
     font-size: 20px;
+}
+
+footer {
+    background-color: #ffb100;
+}
+
+footer .container{
+    padding: 25px 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.github {
+    font-weight: bold;
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.create_year {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.rs_school img{
+    width: 100px;
 }
