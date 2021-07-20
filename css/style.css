@@ -96,3 +96,17 @@ header .container {
 
     font-size: 20px;
 }
+
+.education .container {
+    padding: 25px 0;
+}
+
+.education_title {
+    font-size: 40px;
+}
+
+.education_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
