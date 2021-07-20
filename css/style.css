@@ -68,3 +68,17 @@ header .container {
 
     font-size: 20px;
 }
+
+.code .container {
+    padding: 50px 0;
+}
+
+.code_title {
+    font-size: 40px;
+}
+
+.code_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
