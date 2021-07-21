@@ -1,0 +1,158 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #d8d8d8;
+}
+
+header .container {
+    padding: 50px 0;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.author_name {
+    font-weight: bold;
+    font-size: 85px;
+
+    color: #222222;
+}
+
+.about_author {
+    margin-top: 60px;
+
+    max-width: 660px;
+
+    font-size: 16px;
+    line-height: 25px;
+
+    color: #222222;
+}
+
+.contacts {
+    margin-top: 44px;
+}
+
+.contacts li span {
+    font-weight: bold;
+}
+
+.author_img {
+    width: 250px;
+}
+
+.skills .container {
+    padding: 25px 0;
+}
+
+.skills_title {
+    font-size: 40px;
+}
+
+.skills_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+.code .container {
+    padding: 25px 0;
+}
+
+.code_title {
+    font-size: 40px;
+}
+
+.code_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+.work .container {
+    padding: 25px 0;
+}
+
+.work_title {
+    font-size: 40px;
+}
+
+.work_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+.education .container {
+    padding: 25px 0;
+}
+
+.education_title {
+    font-size: 40px;
+}
+
+.education_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+.english .container {
+    padding: 25px 0;
+}
+
+.english_title {
+    font-size: 40px;
+}
+
+.english_text {
+    margin-top: 20px;
+
+    font-size: 20px;
+}
+
+footer {
+    background-color: #ffb100;
+}
+
+footer .container{
+    padding: 25px 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.github {
+    font-weight: bold;
+    font-size: 20px;
+    
+    color: #000000;
+}
+
+.create_year {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.rs_school img{
+    width: 100px;
+}
