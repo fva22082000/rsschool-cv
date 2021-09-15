@@ -2,6 +2,7 @@
 
 Phone number: +375-29-1580860
 Email address: valerafeofanov264@gmail.com
+vk: 
 
 ## About me
 
@@ -10,17 +11,11 @@ I want to become a front-end developer, and then a full-stack developer in an IT
 ## Skills
 
 * HTML
-* CSS
-* programming languages:
-	* JavaScript
-* framework:
-	* Bootstrap
-* preprocessor:
-	* SASS
-	* SCSS
-* tools:
-	* git
-	* github
+* CSS (SASS/SCSS)
+* JavaScript
+* git and github
+* vscode
+* figma
 
 ## Example code
 
